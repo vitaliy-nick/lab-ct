@@ -6,7 +6,6 @@ module "label" {
   stage      = var.stage
   environment = var.environment
   label_order = var.label_order
-  id_length_limit = 15
   # name       = "bastion"
   # attributes = ["public"]
   delimiter  = "-"

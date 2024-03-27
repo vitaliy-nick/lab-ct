@@ -1,0 +1,1 @@
+{"filename": "builds/95622254f9d515664a924812689cff21bd89c371de0f583fc564ac5a9493ca80.zip", "runtime": "nodejs16.x", "artifacts_dir": "builds", "build_plan": [["zip", "modules/lambda/src/get_courses", null]]}
